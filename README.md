@@ -7,6 +7,7 @@
  **Hough Circles** in OpenCv library. <br>
  The Computer Screen coordiantes of the HoughCircles is then Transferred/Converted for a Small Smartphone Screen and then,<br>
  Appropriate Touch Commands are passed to the Smartphone with ADB.<br>
+ Thus, <ins>Computer plays game on a Smartphone😉</ins>. <br><br>
  <img src="https://github.com/rajtanwarGit/Penalty/blob/main/penalty_gifs_txt.gif" /> 
  ### Built With
  <ul>
